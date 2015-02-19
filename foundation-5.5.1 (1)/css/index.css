@@ -1,0 +1,60 @@
+/* From sauce-checkenLeg are for the nav menu */
+
+.sauce
+{
+	margin-top: 2px;
+}
+
+.shadow
+{
+	box-shadow: 0px -1px 30px #888;
+	background-color: #fff;
+}
+
+.chicken
+{
+	background-color: #fff;
+}
+
+.nuggets
+{
+	color: #000;
+	font-family: 'Tangerine', cursive;
+	font-size: 36px;
+}
+
+.chickenWing
+{
+	background-color: #339dda;
+}
+
+.chickenLeg
+{
+	background-color: #339dda;
+}
+
+
+/* Territorios */
+
+#territorios h1
+{
+	font-family: 'Alegreya Sans SC', sans-serif;
+	font-weight: 100;
+	margin: 50px;
+	text-align: center;
+	font-size: 60px;
+}
+
+.terr1
+{
+	margin-left: 50px;
+	font-size: 30px;
+	font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+.info 
+{
+	margin-left: 50px;
+	font-size: 18px;
+	font-family: 'Alegreya Sans SC', sans-serif;
+}
